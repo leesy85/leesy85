@@ -14,8 +14,7 @@
 
 ### Platforms
 
-<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=Drupal&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=Magento&logoColor=white"/>
+<img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=Drupal&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=Magento&logoColor=white"/>
 
 ### Tools
 
