@@ -7,6 +7,12 @@
 ## Web Programmer
 
 - Since 2008.03 ~ Now
+- OOP 프로그래밍, MVC패턴 프로그래밍
+- 워드프레스 테마 개발
+- 브랜드사이트 제작
+- 소셜네트워크서비스 API, 플러그인 분석 및 적용
+- 페이스북 페이지/앱개발
+- Web, Webapp QA 및 기획 보완
 
 ### Languages
 
