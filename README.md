@@ -2,11 +2,11 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dudn1114@gmail.com)](mailto:dudn1114@gmail.com)
 
-🤞 _Thank you for comming_
+🤞 *Thank you for comming*🌱
 
 ## Web Programmer
 
-- Since 2008.03 ~ Now
+- Since 2008.03 ~ Now ⚡
 - OOP 프로그래밍, MVC패턴 프로그래밍
 - 워드프레스 테마 개발
 - 브랜드사이트 제작
@@ -22,6 +22,10 @@
 
 <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=CodeIgniter&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=Wordpress&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Drupal-0678BE?style=flat-square&logo=Drupal&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Magento-EE672F?style=flat-square&logo=Magento&logoColor=white"/>
 
+### Devops
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white"/>
+
 ### Tools
 
 <img src="https://img.shields.io/badge/Visual&nbsp;Studio&nbsp;Code-007ACC1572B6?style=flat-square&logo=visualstudiocode&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
@@ -33,6 +37,14 @@
 ### Now Studing...
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+
+---
+
+## Github Stats
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=dudn1114&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<br/>
 
 ---
 
