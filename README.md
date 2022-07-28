@@ -34,6 +34,8 @@
 
 <img src="https://img.shields.io/badge/Adobe&nbsp;Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+
 ### Now Studing...
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
